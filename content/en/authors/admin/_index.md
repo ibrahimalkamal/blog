@@ -1,14 +1,13 @@
 ---
 # Display name
-title: Алькамаль Ибрахим
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Alkamal Ebrahim 
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Ebrahim 
-last_name: Alkamal
-
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -25,8 +24,8 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: RUDN
-    url: https://www.rudn.ru/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,17 +46,16 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-
 interests:
   - Artificial Intelligence
-  - Computational Linguistics 
+  - Computational Linguistics
   - Information Retrieval
 
 education:
-  - area: Information technology
-    institution: RUDN University
-    date_start: 2023-10-07
-    date_end: 2027-12-31
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -185,6 +183,4 @@ awards:
 
 ## About Me
 
-I am Ebrahim Al-Kamal  I  student at RUDN University, majoring in information technology. I research interests include distributed robotics, mobile computing, and programmable matter.
-
-
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
