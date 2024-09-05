@@ -1,12 +1,12 @@
 ---
-title: Что такое CI/CD 
-summary: cейчас расскажу Вам о Том, Что такое CI/CD 
-date: 2024-09-01
+title: Что такое  презентаций
+summary: cейчас расскажу Вам о Том, Что такое  презентаций.
+date: 2024-09-03
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://mlops-guide.github.io/MLOps/CICDML/ci-cd.png)'
+  caption: 'Image credit: [**Unsplash**]( https://b3645447.smushcdn.com/3645447/wp-content/uploads/2023/04/033023-Presenting-Blog-Image-scaled.jpg?lossy=2&strip=1&webp=1)'
 
 authors:
   - admin

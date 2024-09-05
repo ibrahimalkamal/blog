@@ -1,7 +1,7 @@
 ---
 title: Пост по Недел 12-19 Сентябрь
 summary: cейчас расскажу Вам о Том, что произошло
-date: 2024-09-05
+date: 2024-09-02
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.

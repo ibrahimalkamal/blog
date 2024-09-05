@@ -1,12 +1,12 @@
 ---
-title: Что такое CI/CD 
-summary: cейчас расскажу Вам о Том, Что такое CI/CD 
-date: 2024-09-01
+title: Пост по Недел 19-26 Сентябрь
+summary: cейчас расскажу Вам о Том, что произошло
+date: 2024-09-03
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://mlops-guide.github.io/MLOps/CICDML/ci-cd.png)'
+  caption: 'Image credit: [**Unsplash**]( https://bdc2020.o0bc.com/wp-content/uploads/2021/07/Boston-Weather-60eb52697f47c-768x432.jpg?width=800)'
 
 authors:
   - admin
