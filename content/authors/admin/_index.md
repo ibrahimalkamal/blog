@@ -64,23 +64,13 @@ education:
  
  
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+ 
+  - position: Backend Software Engineer
+    company_name: GASOR 
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2022-12-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -92,42 +82,55 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Project Management
         description: ''
-        percent: 80
+        percent: 65
+        icon: camera
+      - name: Arduino Development
+        description: ''
+        percent: 90
         icon: code-bracket
-      - name: Data Science
+      - name: Python Programming
         description: ''
-        percent: 100
+        percent: 89
+        icon: code-bracket
+      - name: CI/CD Pipelines
+        description: ''
+        percent: 56
+        icon: camera
+      - name: Database Management
+        description: ''
+        percent: 98
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Reading Technology Blogs
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: chart-bar
+      - name: DIY Electronics Projects
         description: ''
         percent: 100
-        icon: cat
+        icon: chart-bar
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: Coding Challenges
+        description: ''
+        percent: 80
+        icon: code-bracket
+
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Russian
+    percent: 89
+  - name: Arabic
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.

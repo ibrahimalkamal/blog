@@ -1,12 +1,12 @@
 ---
-title: Что такое CI/CD 
-summary: cейчас расскажу Вам о Том, Что такое CI/CD 
-date: 2024-09-03
+title: Что такое LaTex
+summary: cейчас расскажу Вам о Том, Что такое LaTex
+date: 2024-09-05
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://mlops-guide.github.io/MLOps/CICDML/ci-cd.png)'
+  caption: 'Image credit: [**Unsplash**](https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg)'
 
 authors:
   - admin
