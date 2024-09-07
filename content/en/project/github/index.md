@@ -1,7 +1,7 @@
 ---
 title: GitHub Lab
 date: 2024-09-05
-external_link: https://github.blog/
+external_link: https://github.com/ibrahimalkamal/ibrahimalkamal.github.io
 tags:
   - Hugo
   - Wowchemy

@@ -1,5 +1,5 @@
 ---
-title: Пост по Недел 5-12 Сентябрь
+title: Пост по Неделе 5-12 Сентябрь
 summary: сейчас расскажу Вам о Том, что произошло
 date: 2024-09-01
 
@@ -21,65 +21,35 @@ Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Overview
+## Возвращение к программированию
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+В прошедшей неделе мои дни были полными интересных открытий и вызовов. Я принял решение вернуться к программированию, и это был необычайно захватывающий опыт. Мое возвращение началось с изучения Kotlin, мощного языка программирования, который завоевывает сердца разработчиков своей простотой и гибкостью.
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-### Get Started
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
 
-## Crowd-funded open-source software
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## Kotlin
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+Изучение Kotlin было действительно увлекательным путешествием. Я погружался в основы языка, изучал его синтаксис и особенности, и каждый раз, когда я понимал новый концепт, чувствовал себя немного ближе к освоению этого мощного инструмента. Однако, не могу сказать, что это было легко. Время от времени, я сталкивался с трудностями, но именно они делали процесс изучения более увлекательным.
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+## Android разработка
 
-## Ecosystem
+После этого я решил вернуться к разработке под Android. Возвращение к этой платформе было как встречей со старым другом. Я вспоминал все свои предыдущие проекты, испытывал радость от возможности вновь погрузиться в мир мобильной разработки.
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+## Я всё ещё иногда трогаю траву
 
-## Inspiration
+Не только программирование занимало мое время на прошлой неделе. Пару раз я даже выбирался на улицу, чтобы подышать свежим воздухом и расслабиться после интенсивной работы. Это помогло мне освежиться и восстановить энергию для новых достижений.
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+## Astra Linux
 
-## Features
+Кроме того, я начал изучать курс по Астралинуксу. Это увлекательное занятие, которое помогает мне лучше понять, как работает Linux внутри. Каждый новый модуль курса открывает для меня новые горизонты в мире операционных систем и компьютерной безопасности.
 
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+## На этой неделе без отдыха :/
 
-## Themes
+Однако, при всей моей занятости, я обнаружил, что у меня очень мало времени для отдыха и развлечений. Мое расписание было настолько плотным, что я практически не мог насладиться просмотром мультфильмов или аниме, которые я так люблю.
 
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
+## Саммари
 
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Таким образом, прошлая неделя была наполнена увлекательными открытиями и вызовами. Возвращение к программированию оказалось захватывающим и насыщенным опытом, который я не могу дождаться продолжить в следующей неделе.
