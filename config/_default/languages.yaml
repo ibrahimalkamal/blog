@@ -8,7 +8,7 @@ en:
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
 ru:
-  languageCode: "ru-ru"
+  languageCode: ru-ru
   contentDir: "content/ru"
   menu:
     main:
